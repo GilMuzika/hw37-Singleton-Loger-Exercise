@@ -1,0 +1,2205 @@
+ERROR message 
+6/2/2023, 18:23:48
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: THread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+ERROR message 
+6/2/2023, 18:23:48
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: THread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+ERROR message 
+6/2/2023, 18:23:48
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: THread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+ERROR message 
+6/2/2023, 18:23:48
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: THread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+ERROR message 
+6/2/2023, 18:23:48
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: THread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Thread NUmber 11
+6/2/2023, 21:28:18
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: THread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Thread NUmber 21
+6/2/2023, 21:28:18
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: THread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Thread NUmber 01
+6/2/2023, 21:28:18
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: THread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Thread NUmber 31
+6/2/2023, 21:28:18
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: THread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Thread NUmber 41
+6/2/2023, 21:28:18
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: THread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 2=-
+6/2/2023, 21:30:35
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: THread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 3=-
+6/2/2023, 21:30:35
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: THread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 1=-
+6/2/2023, 21:30:35
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: THread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 5=-
+6/2/2023, 21:30:35
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: THread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 4=-
+6/2/2023, 21:30:35
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: THread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 1=-
+6/2/2023, 21:58:31
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: THread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 1=-
+6/2/2023, 21:59:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: THread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 4=-
+6/2/2023, 22:1:6
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: THread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 3=-
+6/2/2023, 22:1:6
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: THread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 13=-
+6/2/2023, 22:1:19
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: THread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 7=-
+6/2/2023, 22:1:19
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 22, Name: THread 6, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 10=-
+6/2/2023, 22:1:19
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 25, Name: THread 9, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 1=-
+6/2/2023, 22:1:19
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: THread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= Thread NUmber 8=-
+6/2/2023, 22:1:19
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 23, Name: THread 7, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 5=-
+6/2/2023, 22:1:45
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: THread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 18=-
+6/2/2023, 22:1:45
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: THread 17, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+6/2/2023, 22:1:45
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: THread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 10=-
+6/2/2023, 22:2:2
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 25, Name: Thread 9, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+6/2/2023, 22:2:2
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 18=-
+6/2/2023, 22:2:2
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: Thread 17, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+6/2/2023, 22:2:2
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 11=-
+6/2/2023, 22:2:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 26, Name: Thread 10, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 9=-
+6/2/2023, 22:2:2
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 24, Name: Thread 8, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+6/2/2023, 23:35:40
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+6/2/2023, 23:35:40
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 30, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 5=-
+6/2/2023, 23:35:40
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 22, Name: Thread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+6/2/2023, 23:51:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 19=-
+6/2/2023, 23:51:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 34, Name: Thread 18, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 6=-
+6/2/2023, 23:51:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 21, Name: Thread 5, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 11=-
+6/2/2023, 23:51:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 26, Name: Thread 10, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 7=-
+6/2/2023, 23:52:36
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 24, Name: Thread 6, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+6/2/2023, 23:53:53
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 1=-
+6/2/2023, 23:53:53
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: Thread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 12=-
+6/2/2023, 23:54:55
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 27, Name: Thread 11, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 19=-
+6/2/2023, 23:54:55
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 34, Name: Thread 18, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 14=-
+6/2/2023, 23:54:55
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 29, Name: Thread 13, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 10=-
+6/2/2023, 23:54:55
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 25, Name: Thread 9, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 14=-
+6/2/2023, 23:55:33
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 29, Name: Thread 13, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 2=-
+6/2/2023, 23:55:33
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: Thread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+7/2/2023, 0:0:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 8=-
+7/2/2023, 0:0:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 23, Name: Thread 7, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 9=-
+7/2/2023, 0:0:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 24, Name: Thread 8, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 14=-
+7/2/2023, 0:0:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 29, Name: Thread 13, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+7/2/2023, 0:0:52
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 18=-
+7/2/2023, 0:0:52
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: Thread 17, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 2=-
+7/2/2023, 0:0:59
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: Thread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+7/2/2023, 0:0:59
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 6=-
+7/2/2023, 0:0:59
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 21, Name: Thread 5, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 8=-
+7/2/2023, 0:0:59
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 23, Name: Thread 7, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+7/2/2023, 0:0:59
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 18=-
+7/2/2023, 0:0:59
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: Thread 17, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 14=-
+7/2/2023, 0:4:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 29, Name: Thread 13, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+7/2/2023, 0:4:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 12=-
+7/2/2023, 0:4:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 27, Name: Thread 11, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 19=-
+7/2/2023, 0:4:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 34, Name: Thread 18, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 18=-
+7/2/2023, 0:4:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: Thread 17, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 17=-
+7/2/2023, 0:4:28
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 32, Name: Thread 16, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 8=-
+7/2/2023, 0:4:57
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 23, Name: Thread 7, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+7/2/2023, 0:4:57
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 7=-
+7/2/2023, 0:12:43
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 24, Name: Thread 6, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 6=-
+7/2/2023, 0:12:43
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 23, Name: Thread 5, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 19=-
+7/2/2023, 0:12:43
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 36, Name: Thread 18, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 16=-
+7/2/2023, 0:12:43
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: Thread 15, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+7/2/2023, 0:14:5
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 7=-
+7/2/2023, 0:14:5
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 22, Name: Thread 6, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 20=-
+7/2/2023, 0:14:5
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 35, Name: Thread 19, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 12=-
+7/2/2023, 0:16:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 27, Name: Thread 11, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 8=-
+7/2/2023, 0:16:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 23, Name: Thread 7, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 1=-
+7/2/2023, 0:16:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 16, Name: Thread 0, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 10=-
+7/2/2023, 0:16:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 25, Name: Thread 9, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 5=-
+7/2/2023, 0:18:4
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: Thread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 17=-
+7/2/2023, 0:18:4
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 32, Name: Thread 16, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 20=-
+7/2/2023, 0:18:4
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 35, Name: Thread 19, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+7/2/2023, 0:20:26
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 5=-
+7/2/2023, 0:20:29
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: Thread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+7/2/2023, 0:20:29
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 19=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 34, Name: Thread 18, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 37=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 52, Name: Thread 36, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 55=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 70, Name: Thread 54, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 68=-
+7/2/2023, 0:20:39
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 83, Name: Thread 67, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 2=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: Thread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 80=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 95, Name: Thread 79, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 33=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 48, Name: Thread 32, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 56=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 71, Name: Thread 55, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 10=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 25, Name: Thread 9, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 30=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 45, Name: Thread 29, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 5=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: Thread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 11=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 26, Name: Thread 10, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 90=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 105, Name: Thread 89, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 93=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 108, Name: Thread 92, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 31=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 46, Name: Thread 30, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 76=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 91, Name: Thread 75, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 96=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 111, Name: Thread 95, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 73=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 88, Name: Thread 72, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 75=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 90, Name: Thread 74, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 35=-
+7/2/2023, 0:20:38
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 50, Name: Thread 34, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 21=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 36, Name: Thread 20, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 30=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 45, Name: Thread 29, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 56=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 71, Name: Thread 55, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 76=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 91, Name: Thread 75, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 82=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 97, Name: Thread 81, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 5=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 20, Name: Thread 4, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 97=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 112, Name: Thread 96, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 6=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 21, Name: Thread 5, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 39=-
+7/2/2023, 0:24:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 54, Name: Thread 38, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 39=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 54, Name: Thread 38, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 66=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 81, Name: Thread 65, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 65=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 80, Name: Thread 64, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 30=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 45, Name: Thread 29, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 68=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 83, Name: Thread 67, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 48=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 63, Name: Thread 47, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 54=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 69, Name: Thread 53, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 82=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 97, Name: Thread 81, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 37=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 52, Name: Thread 36, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 84=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 99, Name: Thread 83, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 14=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 29, Name: Thread 13, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 28=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 43, Name: Thread 27, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 78=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 93, Name: Thread 77, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 53=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 68, Name: Thread 52, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 89=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 104, Name: Thread 88, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 80=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 95, Name: Thread 79, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 76=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 91, Name: Thread 75, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 83=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 98, Name: Thread 82, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 9=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 24, Name: Thread 8, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 22=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 37, Name: Thread 21, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 19=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 34, Name: Thread 18, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 85=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 100, Name: Thread 84, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 35=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 50, Name: Thread 34, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 95=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 110, Name: Thread 94, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 100=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 115, Name: Thread 99, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 18=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 33, Name: Thread 17, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 7=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 22, Name: Thread 6, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 88=-
+7/2/2023, 0:25:46
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 103, Name: Thread 87, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 66=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 81, Name: Thread 65, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 89=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 104, Name: Thread 88, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 6=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 21, Name: Thread 5, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 86=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 101, Name: Thread 85, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 24=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 39, Name: Thread 23, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 44=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 59, Name: Thread 43, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 95=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 110, Name: Thread 94, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 76=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 91, Name: Thread 75, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 3=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 18, Name: Thread 2, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 11=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 26, Name: Thread 10, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 4=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 19, Name: Thread 3, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 87=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 102, Name: Thread 86, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 49=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 64, Name: Thread 48, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 91=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 106, Name: Thread 90, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 37=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 52, Name: Thread 36, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 21=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 36, Name: Thread 20, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 29=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 44, Name: Thread 28, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 13=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 28, Name: Thread 12, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 25=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 40, Name: Thread 24, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 50=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 65, Name: Thread 49, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 2=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 17, Name: Thread 1, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 63=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 78, Name: Thread 62, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+-= The message in thread NUmber 64=-
+8/2/2023, 0:30:13
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 79, Name: Thread 63, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 9 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 15 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 20 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 28 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 32 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 38 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 47 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 52 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 54 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 57 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 58 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 65 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 66 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 75 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 77 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 78 on the log level ERROR
+8/2/2023, 1:0:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 80 on the log level ERROR
+8/2/2023, 1:0:31
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 96 on the log level ERROR
+8/2/2023, 1:0:31
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 1 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 5 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 11 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 12 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 23 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 27 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 34 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 36 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 39 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 63 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 75 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 92 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 99 on the log level ERROR
+8/2/2023, 1:2:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 1 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 7 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 13 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 16 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 20 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 31 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 32 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 34 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 37 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 43 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 46 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 60 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 64 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 74 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 76 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 78 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 90 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 94 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 95 on the log level ERROR
+8/2/2023, 1:7:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 9 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 13 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 25 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 39 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 53 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 59 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 70 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 81 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 85 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 90 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 91 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 93 on the log level ERROR
+8/2/2023, 1:8:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 4 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 8 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 16 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 18 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 21 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 25 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 28 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 33 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 37 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 51 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 52 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 70 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 76 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 79 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 83 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 90 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 92 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 96 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 100 on the log level ERROR
+8/2/2023, 1:8:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 2 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 6 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 10 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 13 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 18 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 22 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 24 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 34 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 35 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 36 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 38 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 41 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 42 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 47 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 53 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 60 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 66 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 67 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 79 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 83 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 86 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 90 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 92 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 93 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 96 on the log level ERROR
+8/2/2023, 1:22:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:35:54
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 2 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 6 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 17 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 27 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 29 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 32 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 36 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 44 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 50 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 55 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 63 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 65 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 84 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 89 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+Message Number 90 on the log level ERROR
+8/2/2023, 1:36:56
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:38:2
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:43:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:45:5
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:45:36
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:45:51
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:48:6
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:48:36
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:50:47
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:51:24
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:52:0
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:53:54
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:54:16
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:55:16
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:55:27
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:56:25
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:57:39
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:58:5
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 1:58:20
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 2:1:19
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 2:2:14
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 17:37:1
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 17:39:30
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
+THE_MESSAGE
+8/2/2023, 17:40:11
+LOG LEVEL: ERROR 
+Current thread details:
+ID: 1, Name: main, State: RUNNABLE, Group: java.lang.ThreadGroup[name=main,maxpri=10], Priority: 5
+-----------------------------------------------------------
+
